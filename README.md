@@ -1,6 +1,6 @@
 # ROOTED 🌱 (Live Shopify Site)
 
-**ROOTED** is a custom Shopify storefront created for a bold and clean apparel brand. The project was focused on keeping the experience minimal, smooth, and responsive — while giving full control over content through editable sections.
+**ROOTED** is a custom Shopify storefront tailored to MOBILE users created for a bold and clean apparel brand. The project was focused on keeping the experience minimal, smooth, and responsive — while giving full control over content through editable sections.
 
 It was a great opportunity to learn more about building for real users and translating brand vision into code.
 
